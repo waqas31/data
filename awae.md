@@ -2,7 +2,10 @@
 
 Deserialization
 
-## .NET Deserialization
+## Deserialization Vulnerabilities
+### .NET Deserialization
+### JAVA Deserialization
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
